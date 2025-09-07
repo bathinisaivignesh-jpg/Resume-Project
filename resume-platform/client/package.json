@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "nxp vite",
-    "build": "nxp vite build",
-    "preview": "nxp vite preview --port 5173",
-    "start": "nxp preview"
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview --port 5173",
+    "start": "npx preview"
 
   },
   "dependencies": {
